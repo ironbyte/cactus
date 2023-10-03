@@ -22,7 +22,7 @@ python3-indy==1.16.0
 PyYAML==5.4.1
 requests==2.26.0
 six==1.16.0
-urllib3==1.26.6
+urllib3==1.26.17
 websocket==0.2.1
 Werkzeug==2.0.1
 zope.event==4.5.0
