@@ -72,7 +72,7 @@
     "@hyperledger/cactus-common": "1.0.0-rc.1",
     "@hyperledger/cactus-core": "1.0.0-rc.1",
     "@hyperledger/cactus-core-api": "1.0.0-rc.1",
-    "axios": "0.21.4",
+    "axios": "1.6.0",
     "http-status-codes": "2.1.4",
     "node-vault": "0.9.22",
     "prom-client": "13.2.0",

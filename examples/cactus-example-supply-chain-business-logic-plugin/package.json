@@ -79,7 +79,7 @@
     "@hyperledger/cactus-plugin-ledger-connector-fabric": "1.0.0-rc.1",
     "@hyperledger/cactus-plugin-ledger-connector-quorum": "1.0.0-rc.1",
     "async-exit-hook": "2.0.1",
-    "axios": "0.21.4",
+    "axios": "1.6.0",
     "express": "4.17.1",
     "openapi-types": "9.1.0",
     "typescript-optional": "2.0.1",

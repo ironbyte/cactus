@@ -80,7 +80,7 @@
     "@hyperledger/cactus-plugin-keychain-memory": "1.0.0-rc.1",
     "@hyperledger/cactus-plugin-ledger-connector-besu": "1.0.0-rc.1",
     "@hyperledger/cactus-test-tooling": "1.0.0-rc.1",
-    "axios": "0.21.4",
+    "axios": "1.6.0",
     "express": "4.17.1",
     "joi": "17.4.2",
     "openapi-types": "9.1.0",
